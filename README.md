@@ -50,24 +50,43 @@
 
 ```
 SmartContactManager/
-  data/
-    contacts.csv
-  frontend/
-    index.html
-    styles.css
-    app.js
-  src/
-    com/smartcontact/
-      Main.java
-      model/Contact.java
-      ds/Trie.java
-      ds/TrieNode.java
-      service/ContactManager.java
-      service/SearchHistory.java
-      service/FavoritesManager.java
-      persistence/ContactStore.java
-      server/ContactApiServer.java
-      util/Validator.java
+│
+├── data/
+│   └── contacts.csv
+│
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   └── app.js
+│
+├── src/
+│   └── com/
+│       └── smartcontact/
+│           ├── Main.java
+│           │
+│           ├── model/
+│           │   └── Contact.java
+│           │
+│           ├── ds/
+│           │   ├── Trie.java
+│           │   └── TrieNode.java
+│           │
+│           ├── service/
+│           │   ├── ContactManager.java
+│           │   ├── SearchHistory.java
+│           │   └── FavoritesManager.java
+│           │
+│           ├── persistence/
+│           │   └── ContactStore.java
+│           │
+│           ├── server/
+│           │   └── ContactApiServer.java
+│           │
+│           └── util/
+│               └── Validator.java
+│
+├── README.md
+└── .gitignore
 ```
 
 ---
