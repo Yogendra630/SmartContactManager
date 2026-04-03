@@ -193,3 +193,30 @@ Each Trie node stores:
 - Web UI (React or HTML/CSS/JS)
 - MySQL storage (JDBC)
 - Unit tests (JUnit)
+<p>
+Contributions are welcome!  
+Feel free to fork the repository and submit pull requests.
+</p>
+
+<hr>
+
+<h2>📜 License</h2>
+
+<p>
+This project is licensed under the <b>MIT License</b>.
+</p>
+
+<hr>
+
+<h2>👨‍💻 Author</h2>
+
+<p>
+<b>Yogendra Maurya</b><br>
+
+</p>
+
+<hr>
+
+<p align="center">
+⭐ If you like this project, please give it a star on GitHub!
+</p>
