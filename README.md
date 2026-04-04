@@ -21,6 +21,8 @@
 
 1. Start API server (steps below)
 2. Open: `http://localhost:8080`
+3. live link-https://yogendra630.github.io/SmartContactManager/
+
 
 ---
 
@@ -110,7 +112,7 @@ java -cp out com.smartcontact.server.ContactApiServer
 
 ```
 http://localhost:8080
-live link-https://yogendra630.github.io/SmartContactManager/
+
 
 ```
 
